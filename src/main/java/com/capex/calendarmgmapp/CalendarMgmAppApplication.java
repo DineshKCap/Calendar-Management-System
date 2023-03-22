@@ -8,6 +8,7 @@ public class CalendarMgmAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CalendarMgmAppApplication.class, args);
+
 	}
 
 }
